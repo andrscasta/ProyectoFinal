@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="163.58302mm"
+   height="43mm"
+   viewBox="0 0 163.58302 43"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66"
+     inkscape:cx="356.97862"
+     inkscape:cy="-58.512496"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.382741,-90.351903)">
+    <rect
+       id="rect36"
+       width="166.36679"
+       height="42.894569"
+       x="9.7792053"
+       y="90.858215"
+       style="fill:#ffff00;stroke-width:0.27533746" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.91007614px;line-height:1.25;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12275207"
+       x="16.020805"
+       y="104.06895"
+       id="text3715"
+       transform="scale(0.79467554,1.2583752)"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="16.020805"
+         y="104.06895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';stroke-width:1.12275207">&lt;MARC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.30628586px;line-height:1.25;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7076571"
+       x="129.3945"
+       y="114.12289"
+       id="text3715-4"
+       transform="scale(1.0256001,0.97503891)"><tspan
+         sodipodi:role="line"
+         x="129.3945"
+         y="114.12289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';stroke-width:0.7076571"
+         id="tspan3735">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56143188px;line-height:1.25;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71403569"
+       x="134.30261"
+       y="130.43848"
+       id="text3715-4-9"
+       transform="scale(0.9996907,1.0003094)"><tspan
+         sodipodi:role="line"
+         x="134.30261"
+         y="130.43848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';stroke-width:0.71403569"
+         id="tspan3735-0">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.91007614px;line-height:1.25;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12275207"
+       x="195.6573"
+       y="104.89714"
+       id="text3715-1"
+       transform="scale(0.79467554,1.2583752)"><tspan
+         sodipodi:role="line"
+         id="tspan3713-7"
+         x="195.6573"
+         y="104.89714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Eras Demi ITC';-inkscape-font-specification:'Eras Demi ITC';stroke-width:1.12275207">&gt;</tspan></text>
+  </g>
+</svg>
